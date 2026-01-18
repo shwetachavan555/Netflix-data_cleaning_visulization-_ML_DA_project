@@ -1,2 +1,2 @@
 # Netflix-data_cleaning_visulization-_ML_DA_project
-Thisproject involvesloading,cleaning,analyzing,andvisualizingdatafromaNetflix dataset.We'll usePython libraries likePandas,Matplotlib, andSeaborn towork throughtheproject.Thegoal istoexplorethedataset,deriveinsights,andprepare forpotentialmachinelearningtasks.
+This project involves loading, cleaning,  analyzing, and visualizing data from a Netflix dataset. We'll use Python libraries like Pandas, Matplotlib, and Seaborn towork through the project. The goal is to explore the dataset, derive insights, and prepare for potential machine learning tasks.
