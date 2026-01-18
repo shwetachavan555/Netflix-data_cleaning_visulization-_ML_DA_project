@@ -32,8 +32,13 @@ Most Prolific Names: You often see names like Rajiv Chilaka (specializing in Kid
 Production Speed: The high title counts for these directors suggest a "volume-based" production model for specific niches like Kids' content and Comedy specials, which require frequent updates to keep audiences engaged.
 # strategic takeaway
 
-Category
-<img width="187" height="81" alt="image" src="https://github.com/user-attachments/assets/abca54db-0ffa-4f81-94e1-64f6bc591d6f" />
+Category   Observation             Actionable Insight
+Strategy   Global Expansion        Focus on "International" categories is  paying off in catalog size
+
+Audience   Adult-Skewed     The dominance of Dramas/Comedies aligns with a mature subscriber base.
+
+Production   Content Hubs     Specific directors are used to "flood" high-demand niches (Kids/Comedy)
+ 
 # Final conclusion
 Netflix has evolved from a simple streaming service into a global production powerhouse. While it maintains a massive movie catalog, its growth is increasingly driven by international content and targeted niche programming (like kids' series and stand-up) delivered by a select group of highly productive directors.
 
